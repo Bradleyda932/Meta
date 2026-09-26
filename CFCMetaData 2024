@@ -459,7 +459,7 @@
         {
           "abbreviation" : "UT",
           "prestige" : "95",
-          "hexColor" : "#84329B",
+          "hexColor" : "#843209",
           "rival" : "TAMU",
           "headCoach" : {
             "contractLength" : "5",
@@ -1808,7 +1808,7 @@
             "name" : "David Scott",
             "contractYear" : "1"
           },
-          "name" : "Bethune-Cookman Wildcats",
+          "name" : "Bethune Cookman Wildcats",
           "state" : "Florida"
         }
       ],
@@ -2361,7 +2361,7 @@
           "state" : "Idaho"
         },
         {
-          "abbreviation" : "UAF",
+          "abbreviation" : "ALAS",
           "prestige" : "15",
           "hexColor" : "#FFFAFA",
           "rival" : "HAW",
